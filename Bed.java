@@ -26,7 +26,9 @@ public class Bed {
     }
 
 
-
+ /*
+  Getter for the class
+  */
     public String getStyle() {
         return style;
     }
